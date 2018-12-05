@@ -34,7 +34,7 @@ class mammifere_ongule {
         // Alimentation de l'individu
         void se_nourrir(float quantite_nourriture);
         // Fuite de l'individu en cas de chasse
-        bool fuir();
+        bool fuir() const;
         // Méthodes "setter" définies en ligne (sauf modifier_sexe) de modification d'attributs
         void modifier_espece(std::string espece) {m_espece = espece;}
         void modifier_nom(std::string nom) {m_nom = nom;}

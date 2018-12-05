@@ -124,7 +124,7 @@ void mammifere_ongule::se_nourrir(float quantite_nourriture)
 /*
 Méthode de simulation de fuite en cas de chasse
 */
-bool mammifere_ongule::fuir()
+bool mammifere_ongule::fuir() const
 {
     srand(time(NULL));
     if (rand()%2)
