@@ -10,15 +10,19 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="141.51076mm"
-   height="91.879494mm"
-   viewBox="0 0 501.41607 325.55725"
+   width="159.91824mm"
+   height="141.36284mm"
+   viewBox="0 0 566.63945 500.89193"
    id="svg4373"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="diagramme_de_classe_vaisseau.svg">
   <defs
      id="defs4375">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4600"
+       is_visible="true" />
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -57,6 +61,14 @@
        effect="spiro"
        id="path-effect4441-0"
        is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4444"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4646"
+       is_visible="true" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,8 +78,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="236.72856"
-     inkscape:cy="123.40577"
+     inkscape:cx="122.04464"
+     inkscape:cy="283.66651"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -96,7 +108,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-131.30716,-104.09465)">
+     transform="translate(-66.08382,35.169691)">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#960000;stroke-width:2.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4136-4-6"
@@ -257,5 +269,50 @@
        preserveAspectRatio="none"
        height="124.31617"
        width="153.91721" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.99999905px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="66.16053"
+       y="-24.919546"
+       id="text4138-3-0-3"
+       transform="scale(0.99987132,1.0001287)"><tspan
+         sodipodi:role="line"
+         x="66.16053"
+         y="-24.919546"
+         style="font-size:13.48523712px;line-height:1.25;fill:#ff0000;fill-opacity:1;stroke-width:0.99999994px"
+         id="tspan4624"><tspan
+   id="tspan6569"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.48523712px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.99999994px">relation d'association </tspan>--&gt; un vaisseau peut en attaquer un autre</tspan></text>
+    <g
+       id="g6565"
+       transform="matrix(1.7982632,0,0,1.7978004,-1096.9789,-443.22644)">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 785.25333,298.73172 -7.06925,7.0729 -7.06926,-7.0729"
+         inkscape:path-effect="#path-effect4646"
+         id="path4644"
+         d="m 785.25333,298.73172 -7.06925,7.0729 -7.06926,-7.0729"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.11232746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.04280686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 682.84656,313.62668 H 647.29142 V 235.4061 h 130.89266 v 70.39852"
+         id="path4598"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect4600"
+         inkscape:original-d="m 682.84656,313.62668 c -41.88626,5.2e-4 -21.59265,-5.2e-4 -35.55514,0 6.1e-4,-26.07519 6.1e-4,-52.14758 0,-78.22058 43.63062,-5.2e-4 87.26239,-5.2e-4 130.89266,0 6.1e-4,23.46532 6.1e-4,46.93183 0,70.39852"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.99999905px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="307.97409"
+       y="86.224487"
+       id="text4138-3-0-3-9"
+       transform="scale(0.99987132,1.0001287)"><tspan
+         sodipodi:role="line"
+         x="307.97409"
+         y="86.224487"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.98031616px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.99999994px"
+         id="tspan4624-1">1</tspan></text>
   </g>
 </svg>
